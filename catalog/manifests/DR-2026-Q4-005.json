@@ -1,0 +1,10 @@
+{
+  "release_id": "DR-2026-Q4-005",
+  "derived_dataset_name": "InstructMix-52K",
+  "source_corpus": "tatsu-lab/alpaca",
+  "generator_model": "Qwen/Qwen2.5-7B",
+  "curator": "Priya Natarajan",
+  "record_count": 52000,
+  "release_channel": "public",
+  "planned_release_date": "2026-12-15"
+}
