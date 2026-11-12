@@ -1,0 +1,10 @@
+{
+  "release_id": "DR-2026-Q4-004",
+  "derived_dataset_name": "ChatAssist-SFT",
+  "source_corpus": "OpenAssistant/oasst1",
+  "generator_model": "meta-llama/Llama-3.1-8B",
+  "curator": "Daniel Okafor",
+  "record_count": 461000,
+  "release_channel": "public",
+  "planned_release_date": "2026-12-10"
+}
