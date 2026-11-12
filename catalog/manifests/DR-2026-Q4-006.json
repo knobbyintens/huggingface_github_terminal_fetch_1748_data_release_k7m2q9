@@ -1,0 +1,10 @@
+{
+  "release_id": "DR-2026-Q4-006",
+  "derived_dataset_name": "DollyShare-Reason",
+  "source_corpus": "databricks/databricks-dolly-15k",
+  "generator_model": "openai/gpt-oss-120b",
+  "curator": "Lucas Ferreira",
+  "record_count": 15000,
+  "release_channel": "partner",
+  "planned_release_date": "2026-12-18"
+}
