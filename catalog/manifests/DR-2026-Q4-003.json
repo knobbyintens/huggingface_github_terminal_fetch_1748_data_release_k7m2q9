@@ -1,0 +1,10 @@
+{
+  "release_id": "DR-2026-Q4-003",
+  "derived_dataset_name": "MathCrawl-Curated",
+  "source_corpus": "HuggingFaceTB/finemath",
+  "generator_model": "deepseek-ai/DeepSeek-V2.5",
+  "curator": "Sofia Lindqvist",
+  "record_count": 2200000,
+  "release_channel": "partner",
+  "planned_release_date": "2026-12-08"
+}
