@@ -1,0 +1,10 @@
+{
+  "release_id": "DR-2026-Q4-002",
+  "derived_dataset_name": "CollegiateQA-Synth",
+  "source_corpus": "cais/mmlu",
+  "generator_model": "openai/gpt-oss-120b",
+  "curator": "Ibrahim Al-Rashid",
+  "record_count": 14800,
+  "release_channel": "public",
+  "planned_release_date": "2026-12-03"
+}
