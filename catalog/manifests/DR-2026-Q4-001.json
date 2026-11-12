@@ -1,0 +1,10 @@
+{
+  "release_id": "DR-2026-Q4-001",
+  "derived_dataset_name": "EduWeb-Mix-35B",
+  "source_corpus": "HuggingFaceFW/fineweb-edu",
+  "generator_model": "Qwen/Qwen2.5-7B",
+  "curator": "Maya Chen",
+  "record_count": 35120000,
+  "release_channel": "public",
+  "planned_release_date": "2026-12-01"
+}
